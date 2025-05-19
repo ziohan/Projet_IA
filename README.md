@@ -34,4 +34,7 @@ Pour exécuter le jeu, il faut utiliser l'invite de commande sous linux et de se
 Exemple : Mon dossier est dans mon espace mémoire de windows donc pour y accèder je me place dans le répertoire /mnt/c/Users/johan/Documents/cours/Projet_IA/Jeu qui me permet d'accèder à ce document : 
 
 
-utilisé la commande make pour compiler avec le makefile
+utiliser la commande make pour compiler avec le makefile et ./jeu pour exécuter le jeu. 
+
+Vous devriez arriver sur ce menu : 
+![menu](https://github.com/user-attachments/assets/58e4487b-9315-4207-b1d8-318ccdfe8818)
