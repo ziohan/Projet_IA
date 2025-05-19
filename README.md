@@ -31,7 +31,7 @@ Vous devez extraire les éléments de ce dossier et les téléchargé dans le m�
 ## Exécution du jeu
 
 Pour exécuter le jeu, il faut utiliser l'invite de commande sous linux et de se placer dans le répertoire qui contient le jeu.
-Exemple : Mon dossier est dans mon espace mémoire de windows donc pour y accèder je me place dans le répertoire /mnt/c/Users/johan/Documents/cours/Projet_IA/Jeu qui me permet d'accèder à ce document :
+Exemple : Mon dossier est dans mon espace mémoire de windows donc pour y accèder je me place dans le répertoire /mnt/c/Users/johan/Documents/cours/Projet_IA/Jeu qui me permet d'accèder à ce document : [dossier]
 
 
 utilisé la commande make pour compiler avec le makefile
