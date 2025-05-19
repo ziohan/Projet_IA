@@ -38,3 +38,12 @@ utiliser la commande make pour compiler avec le makefile et ./jeu pour exécuter
 
 Vous devriez arriver sur ce menu : 
 ![menu](https://github.com/user-attachments/assets/58e4487b-9315-4207-b1d8-318ccdfe8818)
+
+Cliquer sur jouer pour commencer la partie.
+Vous commmencez dans le coin en haut à gauche du labyrinthe, comme ceci :
+
+
+![Départ](https://github.com/user-attachments/assets/87111dbe-1306-4365-ad0f-2278a6fe77d0)
+
+Et le but est d'arriver dans le coin en bas à gauche du labyrinthe en évitant de vous faire attraper par la créature.
+
