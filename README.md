@@ -37,6 +37,8 @@ Exemple : Mon dossier est dans mon espace mémoire de windows donc pour y accèd
 utiliser la commande make pour compiler avec le makefile et ./jeu pour exécuter le jeu. 
 
 Vous devriez arriver sur ce menu : 
+
+
 ![menu](https://github.com/user-attachments/assets/58e4487b-9315-4207-b1d8-318ccdfe8818)
 
 Cliquer sur jouer pour commencer la partie.
@@ -47,3 +49,5 @@ Vous commmencez dans le coin en haut à gauche du labyrinthe, comme ceci :
 
 Et le but est d'arriver dans le coin en bas à gauche du labyrinthe en évitant de vous faire attraper par la créature.
 
+
+![gameplay](https://github.com/user-attachments/assets/ab9cd739-27b6-4e38-9c2d-ec4760edb28d)
